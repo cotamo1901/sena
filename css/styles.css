@@ -1,6 +1,6 @@
 :root{
 
-    ---naranja:
+    ---naranja: #EF5413;
 }
 
 html {
@@ -35,7 +35,7 @@ h3 {
 
 
 .navegacion-principal a:hover {
-    color: red;
+    color: var(---naranja);
   }
 
 .navegacion-principal {
